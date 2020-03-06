@@ -4,7 +4,7 @@ A simple Flutter app to monitor your build of your goCD instance.
 Flutter allows to build app for both Android and iOS but for now only the Android build is provided.
 
 ## Setup (for Android only)
-1. Download binary (`apk`) here: [DOWNLOAD]()
+1. Download binary (`apk`) here: [DOWNLOAD](https://github.com/biocarl/koala_ci/raw/master/bin/koalaCI.apk)
 2. Install on your phone
 2. On first start, provide the url of your goCD instance
 
