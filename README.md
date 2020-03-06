@@ -1,4 +1,4 @@
-# KoalaCI - A build monitor which makes pushing fun again!
+# KoalaCI - A build monitor in Flutter 
 
 A simple Flutter app to monitor your build of your goCD instance.
 Flutter allows to build app for both Android and iOS but for now only the Android build is provided.
